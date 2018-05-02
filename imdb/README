@@ -1,0 +1,16 @@
+1. Given a movie name, can you try and write a piece of code to get the IMDb ratings from the IMDB website (www.imdb.com ).  The idea is to test your ability to scrape the website than to test your ability to use APIs available elsewhere
+
+
+
+
+Requirements:
+
+	install python 
+        
+	install BeautifulSoup :
+	
+	 apt-get install python-bs4 (for Python 2)
+
+	 apt-get install python3-bs4 (for Python 3)
+
+
